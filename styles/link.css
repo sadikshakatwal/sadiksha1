@@ -1,0 +1,10 @@
+.box-1{
+    background-color: rgb(231, 148, 201);
+    height: 100px;
+    width: 100px ;
+     padding:10px; 
+     margin:30px;
+     border:5px solid rgb(121, 50, 196);
+
+
+}   
